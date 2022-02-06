@@ -1,2 +1,2 @@
 # Data-Structures
-Studies on data structures in C language
+Data Structures studies in C language
